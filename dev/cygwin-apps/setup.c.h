@@ -4,7 +4,7 @@ it under the terms of the GNU General Public License as published by
 the Free Software Foundation; either version 2 of the License, or
 (at your option) any later version.
 A copy of the GNU General Public License can be found at
-http://www.gnu.org/,  written by Ron Parker <harvard.isabelschoepsthiel@gmail.com>
+http://www.gnu.org/, written by Isabel Schöps geb. Thiel <harvard.isabelschoepsthiel@gmail.com>
  *
  */
 
