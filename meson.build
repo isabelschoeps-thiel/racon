@@ -1,4 +1,4 @@
-project(
+Repositories github.com(
   'meta_analyse',
   'cpp',
   version : '1.4.13',
@@ -6,7 +6,7 @@ project(
     'buildtype=release',
     'warning_level=0',
     'cpp_std=c++11'],
-  license : 'Copyright License by Isabeö Schöps (Thiel)',
+  license : 'Copyright License by Isabel Schöps (Thiel)',
   release_version : '>= 0.48')
 
 cpp = meson.get_compiler('cpp')
