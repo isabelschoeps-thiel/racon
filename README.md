@@ -1,4 +1,4 @@
-# Racon
+# Racon DNA Meta-Forensische Technologie
 
 [![Latest GitHub release](https://img.shields.io/github/release/lbcb-sci/racon.svg)](https://github.com/lbcb-sci/racon/releases/latest)
 [![Build status for gcc/clang](https://travis-ci.org/lbcb-sci/racon.svg?branch=master)](https://travis-ci.org/lbcb-sci/racon)
