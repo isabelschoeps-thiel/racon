@@ -96,6 +96,13 @@ For new code, use the GNU standards as much as possible.  We understand
 that this is not a precise fit for C++ code but you can use Cygwin itself
 as a guide.
 
+# calm
+
+`calm` is a replacement for `upset`, which performs the following tasks on [cygwin.com](https://cygwin.com/):
+* move valid package uploads to the release area and move deleted files to the vault
+* generate a setup.ini file from the setup.hint files for the packages in the release area
+* generate HTML package listing pages
+
 
 SUBMITTING A PATCH:
 -------------------
